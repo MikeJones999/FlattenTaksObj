@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/FlattenTreeExample/v15
+/FlattenTreeExample/bin/Debug/netcoreapp2.2
+/FlattenTreeExample/obj
